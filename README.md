@@ -16,8 +16,6 @@ Kindly follow the following Instructions to run the project in your system and i
 
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/how-to-create-liquidity-token-marketplace-including-ico-token-sale)
 
-#### Setup Video
-- [Final Code Setup video](https://youtu.be/G5-f1hZA01U?si=E8enzoXZPl3TfzH-)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
